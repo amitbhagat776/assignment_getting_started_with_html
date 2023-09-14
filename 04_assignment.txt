@@ -1,0 +1,9 @@
+A [tag] is a snippet of code enclosed within angle brackets ("<" and ">") that specifies an HTML element.
+Tags are used to mark the beginning and end of elements, and they provide instructions to the web browser about how to render content.
+example:
+ <p> <h1>
+
+
+An "element" is a complete structure in HTML that consists of an opening tag, content, and a closing tag. It represents a specific piece of content or a structural component on a web page.
+example:
+<h2>This is an heading </h2>
